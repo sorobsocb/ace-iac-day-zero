@@ -3,7 +3,7 @@ terraform {
 
 aviatrix = {
   source = "aviatrixsystems/aviatrix"
-      version = "~> 2.21.2, 2.22.0"
+      version = "2.22.0"
     }
  
 aws = {
